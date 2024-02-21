@@ -16,6 +16,7 @@ python listener.py
 Then send message
 
 optional argument: `--chat_file path/to/chat/file.json`
+
 optional argument: `--message "kiep?"`
 
 ```
