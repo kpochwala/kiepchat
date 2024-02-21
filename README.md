@@ -1,5 +1,8 @@
 ### Kiepchat
 
+
+![kiep](https://github.com/kpochwala/kiepchat/assets/17093535/77308f01-c40a-4185-86b9-c026f492d79c)
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
